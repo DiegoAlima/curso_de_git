@@ -23,7 +23,7 @@ body{
 	text-align: center;
 	padding: 40px;
 }
-
+/*
 .main_article{
 	text-align: center;
 	padding: 40px;
@@ -37,7 +37,7 @@ body{
 .main_article header p{
 	margin-top: 20px;
 	font-weight: 700;
-}
+}*/
 
 .main_article p{
 	margin-top: 10px;
@@ -127,9 +127,10 @@ body{
 	color: #4e443c;
 	padding: 40px;
 }
-
+/*
 @media(max-width: 45em){
 	.container{
 		width: 98%;
 	}
 }
+*/
